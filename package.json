@@ -1,0 +1,25 @@
+{
+  "name": "show-and-tell-ramdajs",
+  "version": "1.0.0",
+  "description": "For an MLH standup show and tell.",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "lodash": "^4.17.20",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahCardoza/show-and-tell-ramdajs.git"
+  },
+  "author": "Noah Cardoza <noahcardoza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahCardoza/show-and-tell-ramdajs/issues"
+  },
+  "homepage": "https://github.com/NoahCardoza/show-and-tell-ramdajs#readme"
+}
